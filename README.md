@@ -2,7 +2,7 @@
 
 - Enjoy the snow.
 - Stay safe.
-- Spend time reviewing / practicing material, especially from Q1 & Q2
+- When bored / ready to work, spend time reviewing / practicing material, especially from Q1 & Q2
 
 ### Quarter 1 topics:
 - HTML (including semantic tags)
